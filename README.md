@@ -15,6 +15,7 @@ lotto_balls.xlsx - place in same directory, contains a 64x64 grid of Entrants (v
 lotto_winners.xlsx - placed in same directory, contains Seed (64 - 1), Team Name & Entrant Assignment
 
 Seed    |  Team   |  Entrant
+------------ | ------------- | ------------ 
 64 | North Dakota State | gcvik 2_139
 63 |       Gardner-Webb  |   cc 8_144
 62 |   Abilene Christian | PPVIP 3_152
