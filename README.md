@@ -24,15 +24,6 @@ lotto_winners.xlsx - placed in same directory, contains Seed (64 - 1), Team Name
 6    58   Northern Kentucky  gcvik 1_190
 7    57       Georgia State  gcvik 3_150
 
-    Seed            Team          Entrant
-56     8        Michigan      PPVIP 2_101
-57     7        Kentucky      gcvik 4_192
-58     6       Tennessee      PPVIP 3_140
-59     5  Michigan State      PPVIP 3_103
-60     4         Gonzaga      cc 4_160
-61     3  North Carolina      LD 1_193
-62     2        Virginia      cc 3_185
-63     1            Duke      LD 2_108
 
 
 
